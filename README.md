@@ -17,17 +17,14 @@ I have a background in communication design with over 10 years of experience. I 
 
 ### Backend
 <div>
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 50px;" class="object-center">
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" style="width: 50px; vertical-align:bottom;"> 
 </div>
 
 ### Code Editors
-<div>
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" style="width: 50px; vertical-align:bottom;"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 50px; vertical-align:bottom;"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 50px;" class="object-center">
-</div>
+- Visual Studio Code
+- Cursor
 
 
 - 👋 Hi, I’m @Alexis-3000
