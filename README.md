@@ -7,7 +7,7 @@ I have a background in communication design with over 10 years of experience. I 
 
 ### Frontend
 <div> 
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 48px; vertical-align:center;"> 
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 48px; vertical-align:center; padding-right: 10px;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 50px;"> 
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 50px; vertical-align:bottom;"> 
@@ -23,11 +23,13 @@ I have a background in communication design with over 10 years of experience. I 
 </div>
 
 ### Code Editors
-- Visual Studio Code
-- Cursor
+<div>
+  <img src="https://github.com/user-attachments/assets/b0feb3c7-6193-44a2-b366-9ccda68e6294" style="width: 50px; vertical-align:bottom;">
+  <img src="https://github.com/user-attachments/assets/9922cc83-9827-4c85-9011-fd5c832e2e74" style="width: 50px; vertical-align:bottom;">
+</div>
 
 ## Let's connect
-- 📫 https://www.linkedin.com/in/alexis-pommerenke/
+- [LinkedIn](https://www.linkedin.com/in/alexis-pommerenke/)
 
 ## Default
 - 👋 Hi, I’m @Alexis-3000
