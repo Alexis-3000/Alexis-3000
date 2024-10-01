@@ -15,7 +15,7 @@ I have a background in communication design with over 10 years of experience. I 
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" style="width: 50px; vertical-align:bottom;">
 </div>
 
-<div style="display:flex; align-items:center; gap:3rem; height:8rem"> 
+<div style="display:flex; align-items:center; gap:3; height:8rem"> 
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" style="width: 50px; vertical-align:bottom;"> 
