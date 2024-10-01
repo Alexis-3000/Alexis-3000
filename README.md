@@ -1,4 +1,4 @@
-#Hi, I’m Alexis!
+# Hi, I’m Alexis!
 
 I'm a full stack web developer. I just completed a one year full-time training program in MERN stack technologies. 
 I have a background in communication design with over 10 years of experience. I have a good eye for design and want to build a bridge between the fields of programming and design.
