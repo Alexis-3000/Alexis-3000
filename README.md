@@ -16,7 +16,7 @@ I have a background in communication design with over 10 years of experience. I 
 </div>
 
 <div style="display:flex; align-items:center; gap:3; height:4rem"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 50px; vertical-align:bottom;"> 
+  <img src="https://img.shields.io/badge/-HTML5-333333?logo=html5&style=flat&logoWidth=15" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 50px;"> 
