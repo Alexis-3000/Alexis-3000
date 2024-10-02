@@ -1,11 +1,11 @@
-# Hi, I’m Alexis!
+## Hi there, I’m Alexis! 👋
 
 I'm a full stack web developer. I just completed a one year full-time training program in MERN stack technologies. 
-I have a background in communication design with over 10 years of experience. I have a good eye for design and want to build a bridge between the fields of programming and design.
+I have a background in communication design with over 10 years of working experience. I have a great eye for design and want to build a bridge between the fields of programming and design.
 
-## Tech Stack
+### Tech Stack
 
-### Frontend
+#### Frontend
 <div> 
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 48px; vertical-align:center; padding-right: 10px;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 50px;"> 
@@ -15,30 +15,21 @@ I have a background in communication design with over 10 years of experience. I 
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" style="width: 50px; vertical-align:bottom;">
 </div>
 
-### Backend
+#### Backend
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 50px; vertical-align:bottom;"> 
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 50px;" class="object-center">
   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" style="width: 50px; vertical-align:bottom;"> 
 </div>
 
-### Code Editors
+#### Code Editors
 <div>
   <img src="https://github.com/user-attachments/assets/b0feb3c7-6193-44a2-b366-9ccda68e6294" style="width: 50px; vertical-align:bottom;">
   <img src="https://github.com/user-attachments/assets/9922cc83-9827-4c85-9011-fd5c832e2e74" style="width: 50px; vertical-align:bottom;">
 </div>
 
-## Let's connect
+## Let's connect &nbsp;💌
 - [LinkedIn](https://www.linkedin.com/in/alexis-pommerenke/)
-
-## Default
-- 👋 Hi, I’m @Alexis-3000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Alexis-3000/Alexis-3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
